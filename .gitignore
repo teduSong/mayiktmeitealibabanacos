@@ -1,0 +1,4 @@
+# Project exclude paths
+/mayikt-order/target/
+/mayikt-springboot/target/
+/meite-member/target/
